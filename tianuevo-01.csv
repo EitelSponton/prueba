@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+50:5D:AC:89:D4:3C, 2019-05-09 18:28:47, 2019-05-09 18:29:37,  4, 270, WPA2, CCMP, PSK, -29,      480,      404,   0.  0.  0.  0,  17, WiFi-SCHIFFO-2.4G, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+90:18:7C:7E:AB:83, 2019-05-09 18:29:05, 2019-05-09 18:29:36, -39,      438, 50:5D:AC:89:D4:3C,
+
